@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  app:
+    image: app
+    build: .
+    container_name: app
+    entrypoint: python app.py
+    restart: allways
