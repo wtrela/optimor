@@ -5,7 +5,7 @@
       <paths name="AWS_EC2">
         <serverdata>
           <mappings>
-            <mapping deploy="/optimor/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/wp_test/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
